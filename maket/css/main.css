@@ -1,0 +1,16 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+.header {
+    background-color: #445162;
+    outline: 1px solid red;
+    min-width: 323px;
+    color: #fff;
+    font-family: arial, serif;
+}
+
+.container {
+    max-width: 1180px;
+}
